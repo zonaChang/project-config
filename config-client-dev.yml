@@ -1,3 +1,4 @@
 info:
   name: dev-name
-namex: dev-namex
+namex: 
+    n1: dev-namex
